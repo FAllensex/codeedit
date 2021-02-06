@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\bin\Debug\Frace Code Editor.exe.config
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\bin\Debug\Frace Code Editor.exe
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\bin\Debug\Frace Code Editor.pdb
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\obj\Debug\Frace Code Editor.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\obj\Debug\Frace_Code_Editor.Form1.resources
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\obj\Debug\Frace_Code_Editor.Properties.Resources.resources
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\obj\Debug\Frace Code Editor.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\obj\Debug\Frace Code Editor.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\obj\Debug\Frace Code Editor.exe
+C:\Users\USER\source\repos\Frace Code Editor\Frace Code Editor\obj\Debug\Frace Code Editor.pdb
